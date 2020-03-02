@@ -1,0 +1,7 @@
+C:\Users\RobertoCarlos\documents\visual studio 2013\Projects\APJobLog\DataTests\bin\Debug\DataTests.dll
+C:\Users\RobertoCarlos\documents\visual studio 2013\Projects\APJobLog\DataTests\bin\Debug\DataTests.pdb
+C:\Users\RobertoCarlos\documents\visual studio 2013\Projects\APJobLog\DataTests\bin\Debug\APJobLog.exe
+C:\Users\RobertoCarlos\documents\visual studio 2013\Projects\APJobLog\DataTests\bin\Debug\APJobLog.pdb
+C:\Users\RobertoCarlos\documents\visual studio 2013\Projects\APJobLog\DataTests\obj\Debug\DataTests.csprojResolveAssemblyReference.cache
+C:\Users\RobertoCarlos\documents\visual studio 2013\Projects\APJobLog\DataTests\obj\Debug\DataTests.dll
+C:\Users\RobertoCarlos\documents\visual studio 2013\Projects\APJobLog\DataTests\obj\Debug\DataTests.pdb

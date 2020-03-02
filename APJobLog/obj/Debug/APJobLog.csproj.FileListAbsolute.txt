@@ -1,0 +1,5 @@
+c:\users\robertocarlos\documents\visual studio 2013\Projects\APJobLog\APJobLog\bin\Debug\APJobLog.exe.config
+C:\Users\RobertoCarlos\documents\visual studio 2013\Projects\APJobLog\APJobLog\bin\Debug\APJobLog.exe
+C:\Users\RobertoCarlos\documents\visual studio 2013\Projects\APJobLog\APJobLog\bin\Debug\APJobLog.pdb
+C:\Users\RobertoCarlos\documents\visual studio 2013\Projects\APJobLog\APJobLog\obj\Debug\APJobLog.exe
+C:\Users\RobertoCarlos\documents\visual studio 2013\Projects\APJobLog\APJobLog\obj\Debug\APJobLog.pdb
